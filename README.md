@@ -1,10 +1,11 @@
 # Inventory in Lua System for VORPCore framework
 
 ## Modifications
-* Select other Players with [MEGA Nplayerselector](https://github.com/MegaITA/mega_nplayerselector)
 ![image](https://cdn.discordapp.com/attachments/776118735764717578/940338885119066203/playerselector_showcase_gif.gif)
+* Select other Players with [MEGA Nplayerselector](https://github.com/MegaITA/mega_nplayerselector)
 * If Players Die Items will be Despawn and not Dropped on Ground
 * Edits for [Xakra Weapons](https://xakra-scripts.tebex.io/package/5432140) includet
+* Give Gold fixed.
 
 
 ## Requirements
