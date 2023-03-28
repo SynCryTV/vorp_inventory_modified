@@ -3,11 +3,15 @@
 ## Requirements
 - [VORP_Core](https://github.com/VORPCORE/vorp-core-lua)
 - [VORP Inputs](https://github.com/VORPCORE/vorp_inputs-lua)
+- [MEGA Nplayerselector](https://github.com/MegaITA/mega_nplayerselector)
 
 ## How to install
-* Download the lastest version of VORP Inventory
+* Download the lastest version of my VORP Inventory Mod
+* Download latest of MEGA Nplayerselector.
 * Copy and paste ```vorp_inventory``` folder to ```resources/vorp_inventory```
+* Copy and paste ```mega_nplayerselector``` folder to ```resources/mega_nplayerselector```
 * Add ```ensure vorp_inventory``` to your ```resource.cfg``` file
+* Add ```ensure mega_nplayerselector``` to your ```resource.cfg``` file
 * To change the language go to ```resources/vorp_inventory/Config``` and change the default language, also you will have to edit the html file to change the text on the inventory menu
 
 
