@@ -6,6 +6,7 @@
 * If Players Die Items will be Despawn and not Dropped on Ground
 * Edits for [Xakra Weapons](https://xakra-scripts.tebex.io/package/5432140) includet
 * Give Gold fixed.
+* Money Give Animations.
 
 
 ## Requirements
